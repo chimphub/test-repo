@@ -1,0 +1,16 @@
+{
+    "templates": [
+        {
+            "name": "Nyhetsbrev",
+            "file": "dist/newsletter.html",
+        },
+        {
+            "name": "Nyhetsbrev - minE24",
+            "file": "dist/newsletter-min-e24.html",
+        },
+        {
+            "name": "Kampanje",
+            "file": "dist/campaign.html",
+        }
+    ]
+}
